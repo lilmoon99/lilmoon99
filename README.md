@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 [![Typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=👋+Hi+there!+I'm+Aynur!+%20🙃)](https://github.com/lilmoon99?tab=repositories)
 
 [![lilmmon99](https://img.shields.io/badge/@lil_moon99-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lil_moon99)
+[![i@ksergey.ru](https://img.shields.io/badge/lilmoon99@vk.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:lilmoon99@vk.com)
